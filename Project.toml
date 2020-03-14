@@ -1,0 +1,4 @@
+name = "Control"
+uuid = "384321b0-0130-4653-89d5-d99d0b6a12be"
+authors = ["Jacob Quinn <quinn.jacobd@gmail.com>"]
+version = "0.1.0"
